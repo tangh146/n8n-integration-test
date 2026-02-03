@@ -9,7 +9,7 @@ export class GaaSLLMHub implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'GaaS LLM Hub',
 		name: 'GaaSLLMHub',
-		icon: 'file:GaaS.png',
+		icon: 'file:GaaSLLMHub.png',
 		group: ['transform'],
 		version: 1,
 		subtitle: '={{$parameter["model"]}}',

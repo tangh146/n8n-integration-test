@@ -38,7 +38,7 @@
 			"dist/nodes/GithubIssues/GithubIssues.node.js",
 			"dist/nodes/Example/Example.node.js",
 			"dist/nodes/GaaS/GaaSLLMHub.node.js",
-			"dist/nodes/GaaS/GaaSMCPRegister.node.js"
+			"dist/nodes/GaaS/GaaSMCPRegistry.node.js"
 		]
 	},
 	"devDependencies": {
